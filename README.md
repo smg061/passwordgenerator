@@ -1,6 +1,6 @@
 ## Password generator
 
-This page allows the user to generate a random password of their chosen length. The app can be accessed from [here](smg061.github.io/passwordgenerator)
+This page allows the user to generate a random password of their chosen length. The app can be accessed from [here](http://smg061.github.io/passwordgenerator)
 
 
 ## Features
