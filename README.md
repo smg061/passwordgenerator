@@ -14,7 +14,7 @@ This app allows the user to select the types of characters to be used for the ra
 ### Input validation 
 Crashes and unwanted expections are handled through multiple layers of input validation and alert messages. For example, if the user inputs a number < 8 as the password length, doesn't input anything, or they input something that is not a number, the app handles this and alerts the user. Likewise, if the user does not select any character sets to generate a password, the program will alert the user and terminate.
 
-![homepage](https://github.com/smg061/smg061.github.io/blob/main/assets/images/2021-03-13%2020_48_22-Santos%20Gonzalez%20Portfolio%20%E2%80%94%20Mozilla%20Firefox.jpg)
+![homepage](https://raw.githubusercontent.com/smg061/passwordgenerator/main/assets/images/2021-03-20%2018_45_48-Password%20Generator%20%E2%80%94%20Mozilla%20Firefox.png)
 
 
 
