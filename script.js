@@ -11,7 +11,7 @@ var spclChars = [ " ", "!", "\"", "#", "$", "%", "&", "'", "(", ")", "*", "+", "
 
 // Write password to the #password input
 function writePassword() {
-  var passLength = prompt("What is the desired password length?");
+  var passLength = prompt("What is the desired password length? (must be a positive number <= 8");
   // show a alert is the selected passlength is < 8, if they pressed 'cancel' or did not type a number
   // to the console
   if (passLength < 8  || !passLength || isNaN(passLength) ) 
